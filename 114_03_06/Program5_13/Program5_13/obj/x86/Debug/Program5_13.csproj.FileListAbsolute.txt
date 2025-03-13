@@ -26,13 +26,3 @@ D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.csproj.CoreCompileInputs.cache
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.exe
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.pdb
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\bin\Debug\Program5_13.exe.config
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\bin\Debug\Program5_13.exe
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\bin\Debug\Program5_13.pdb
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\obj\x86\Debug\Program5_13.csproj.AssemblyReference.cache
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\obj\x86\Debug\Program5_13.Form1.resources
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\obj\x86\Debug\Program5_13.Properties.Resources.resources
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\obj\x86\Debug\Program5_13.csproj.GenerateResource.cache
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\obj\x86\Debug\Program5_13.csproj.CoreCompileInputs.cache
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\obj\x86\Debug\Program5_13.exe
-C:\Users\shu\Desktop\113_2_C_Sharp\114_03_06\Program5_13\Program5_13\obj\x86\Debug\Program5_13.pdb
