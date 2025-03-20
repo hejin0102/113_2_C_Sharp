@@ -1,0 +1,9 @@
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\bin\Release\Display Elements.exe
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\bin\Release\Display Elements.pdb
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\obj\x86\Release\Display Elements.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\obj\x86\Release\Display_Elements.Form1.resources
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\obj\x86\Release\Display_Elements.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\obj\x86\Release\Display Elements.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\obj\x86\Release\Display Elements.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\obj\x86\Release\Display Elements.exe
+C:\Users\shu\Desktop\113_2_C_Sharp\114_03_20\Display Elements\Display Elements\obj\x86\Release\Display Elements.pdb
