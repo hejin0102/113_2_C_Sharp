@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\bin\Debug\net8.0-windows\ArrayEpuality.exe
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\bin\Debug\net8.0-windows\ArrayEpuality.deps.json
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\bin\Debug\net8.0-windows\ArrayEpuality.runtimeconfig.json
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\bin\Debug\net8.0-windows\ArrayEpuality.dll
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\bin\Debug\net8.0-windows\ArrayEpuality.pdb
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.Form1.resources
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.sourcelink.json
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.dll
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\refint\ArrayEpuality.dll
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.pdb
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ArrayEpuality.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\ArrayEpuality\ArrayEpuality\obj\Debug\net8.0-windows\ref\ArrayEpuality.dll

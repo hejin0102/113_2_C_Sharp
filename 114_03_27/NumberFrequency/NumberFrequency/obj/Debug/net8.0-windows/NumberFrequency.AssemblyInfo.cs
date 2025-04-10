@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberFrequency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4d229ab6c0ee8a0f4e223ac6b4b0c37412e78f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c84cab370f20e12c57b64c281e001886da5a5bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberFrequency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberFrequency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
