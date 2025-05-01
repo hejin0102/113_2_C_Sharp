@@ -130,7 +130,7 @@
             this.exitButton.TabIndex = 14;
             this.exitButton.Text = "退出";
             this.exitButton.UseVisualStyleBackColor = true;
-            this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
+//            this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
             // openFile
             // 
