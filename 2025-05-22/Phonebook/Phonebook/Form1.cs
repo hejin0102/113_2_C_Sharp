@@ -21,8 +21,7 @@ namespace Phonebook
     public partial class Form1 : Form
     {
         // 用來儲存所有聯絡人資料的清單，每一筆資料為 PhoneBookEntry 結構
-        private List<PhoneBookEntry> phoneList =
-            new List<PhoneBookEntry>();
+        private List<PhoneBookEntry> phoneList = new List<PhoneBookEntry>();
 
         public Form1()
         {
